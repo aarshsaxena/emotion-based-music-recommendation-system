@@ -4,5 +4,5 @@ av
 opencv-python
 numpy
 mediapipe
-keras.model
+keras
 webbrowser
